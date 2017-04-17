@@ -1,2 +1,3 @@
 # springdata
 springdata入门
+springdata是spring的一个子项目，可以实现让hibernate类似框架不用写dao的实现层，提高开发效率
